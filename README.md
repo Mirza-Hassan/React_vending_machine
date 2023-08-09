@@ -12,6 +12,35 @@ Description
 Frontend: React.js, Bootstrap
 Backend: Express, Node.js, third-party packages (JWT)
 
+### Installation
+
+## Frontend
+1. Navigate to the `frontend` directory using your terminal.
+
+2. Run the following command to install the required dependencies:
+```
+npm install
+```
+
+3. Once the installation is complete, start the development server with:
+```
+npm start
+```
+
+## Backend
+1. Open your terminal and navigate to the `backend` directory.
+
+2. Build the backend project using the following command:
+```
+npm install
+```
+
+3. After a successful build, launch the backend application with:
+```
+node app.js
+```
+
+
 ### URL 
 [https://smanagements.netlify.app](https://vendormachine.netlify.app/)
 
