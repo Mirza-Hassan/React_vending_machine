@@ -9,8 +9,9 @@ Description
 - Role-based access control implemented.
 
 ### Tech Stack:
-Frontend: React.js, Bootstrap
-Backend: Express, Node.js, third-party packages (JWT)
+
+- Frontend: React.js, Bootstrap
+- Backend: Express, Node.js, third-party packages (JWT)
 
 ### Installation
 
