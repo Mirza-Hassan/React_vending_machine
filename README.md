@@ -1,4 +1,4 @@
-[screencast-localhost_3000-2023.08.09-08_49_17.webm](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/28a21dbe-7629-46d0-991c-09436c1d80eb)### Vending machine 
+### Vending machine 
 
 Description
 
@@ -56,8 +56,6 @@ node app.js
 
 ### APP FLOW
 [screencast-localhost_3000-2023.08.09-08_49_17.webm](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/6f943db9-b07f-4220-b1ec-87aeca634e52)
-
-
 
 ### URL 
 [https://smanagements.netlify.app](https://vendormachine.netlify.app/)
