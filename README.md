@@ -42,18 +42,19 @@ node app.js
 ```
 
 ### Screenshots:
+
 ### Login Screen
-![screencapture-localhost-3000-login-2023-08-04-14_06_20](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/1fff9288-ba11-4a97-be36-5f4dc46fca68)
+![screencapture-localhost-3000-login-2023-08-04-14_06_20](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/511052bc-47b6-4b18-a439-056f0e61f6ee)
 
 ### Registration Screen
-![screencapture-localhost-3000-2023-08-04-14_01_57](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/e5f0ce2a-bd0a-4764-aaf8-4c9c615d77bf)
+![screencapture-localhost-3000-2023-08-04-14_01_57](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/ce065588-3a3d-4fe3-81bc-b34fc896206f)
 
 ### Product Screen
-![screencapture-localhost-3000-product-2023-08-04-14_03_47](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/5b790fd9-c538-442c-b24c-045d6fd21aba)
-
+![screencapture-localhost-3000-product-2023-08-04-14_03_47](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/0f6dd7d8-12f7-4d54-b73c-dea09d092d2f)
 
 ### Vendor Machine Screen
-![screencapture-localhost-3000-product-2023-08-04-14_02_56](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/e702445d-0870-44fb-baa9-fa94530a2699)
+![screencapture-localhost-3000-product-2023-08-04-14_02_56](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/cc50fef5-e106-4c0a-af1b-3af06906397d)
+
 
 ### APP FLOW
 [screencast-localhost_3000-2023.08.09-08_49_17.webm](https://github.com/Mirza-Hassan/vending_machine/assets/17096257/6f943db9-b07f-4220-b1ec-87aeca634e52)
